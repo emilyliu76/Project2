@@ -7,6 +7,13 @@ SP22 BIMM143 Bioinformatics Laboratory
 
 **Hypothesis:** If the immunoglobulin heavy constant gamma 1 (IGHG1) in mice, cattle, or horse is the most similar to the IGHG1 of human IgG, and the protein structure of the human IGHG1 and host animal IGHG1 is similar, then that host animal would produce IgG neutralizing antibody that would function in the most similar way as endogenous human IgG, which could give researchers an insight on which animal could produce the most effective antivenom antibodies to treat snakebites in humans.
 
-**Files (that I have so far):**
+**Files needed to run the code (that I have so far):**
 
-For local pairwise sequence alignment: human, mouse, cattle, horse, monkey_IgG1.txt (these are nucleotide sequences downloaded from NCBI)
+For local pairwise sequence alignment: nucleotide sequences of the IgG1 gene downloaded from NCBI
+1) human_IgG1.txt - Homo sapiens (human): https://www.ncbi.nlm.nih.gov/gene/3500
+2) mouse_IgG1.txt - Mus musculus (house mouse): https://www.ncbi.nlm.nih.gov/gene/16017
+3) cattle_IgG1.txt - Bos taurus (cattle): https://www.ncbi.nlm.nih.gov/gene/281850
+4) horse_IgG1.txt - Equus caballus (horse): https://www.ncbi.nlm.nih.gov/gene/?term=Equus+caballus+IGHC1
+5) monkey_IgG1.txt - Macaca mulatta (Rhesus monkey): https://www.ncbi.nlm.nih.gov/gene/708891
+
+The notebook for running all of the code was written in Python. 
