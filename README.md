@@ -20,6 +20,7 @@ For structural bioinformatics: proteins structures were downloaded from RSCB PDB
 1) 1jpt.pdb - Homo sapiens (human): PDB ID = 1JPT https://www.rcsb.org/structure/1JPT
 2) 5dqj.pdb - Mus musculus (house mouse): PDB ID = 5DQJ https://www.rcsb.org/structure/5DQJ
 3) 4d9q.pdb - Macaca mulatta (Rhesus monkey): PDB ID = 4D9Q https://www.rcsb.org/structure/4D9Q
+
 The protein structure movie was made using the PyMOL software.
 
 The notebook for running all of the code was written in Python. 
